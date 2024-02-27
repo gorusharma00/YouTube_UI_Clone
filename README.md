@@ -19,7 +19,7 @@ https://github.com/gorusharma00/YouTube_UI_Clone/assets/108645957/c2c74f06-b424-
 
 ## Demo
 
-You can see the project in action by visiting the [live demo]().
+You can see the project in action by visiting the [live demo](https://youtube-ui-dark-clone.netlify.app/).
 
 
 ## Key Features
@@ -33,7 +33,7 @@ You can see the project in action by visiting the [live demo]().
 1. Clone the repository to your machine using the git clone command: 
 
 ```bash
-https://github.com/yourusername/youtube-ui-clone.git
+https://github.com/gorusharma00/YouTube_UI_Clone.git
 ```
 
 2. Open in Browser: Navigate to the project directory using your terminal and open the index.html file in your preferred browser.
