@@ -14,7 +14,7 @@ This project is a responsive UI clone of YouTube's dark theme, meticulously craf
 
 
 ## Preview
-![preview](https://github.com/gorusharma00/YouTube_UI_Clone/assets/108645957/c2c74f06-b424-4693-898b-30199fc8a2a9)
+https://github.com/gorusharma00/YouTube_UI_Clone/assets/108645957/c2c74f06-b424-4693-898b-30199fc8a2a9
 
 
 ## Demo
@@ -30,13 +30,13 @@ You can see the project in action by visiting the [live demo]().
 
 ## Getting Started
 
-    1. Clone the repository to your machine using the git clone command: 
+1. Clone the repository to your machine using the git clone command: 
 
 ```bash
 https://github.com/yourusername/youtube-ui-clone.git
 ```
 
-    2. Open in Browser: Navigate to the project directory using your terminal and open the index.html file in your preferred browser.
+2. Open in Browser: Navigate to the project directory using your terminal and open the index.html file in your preferred browser.
 
 ## Usage
 
